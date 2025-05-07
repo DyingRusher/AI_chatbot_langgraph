@@ -11,4 +11,5 @@ Llm model - llama-3.3-70b-versatile,llama3-8b-8192,mistral-saba-24b or gpt-4o-mi
 Backend - FastAPI,uvicorn  
 Frontend - Streamlit  
 
+## Data Flow
 ![langgraph](https://github.com/user-attachments/assets/ea95bd99-5dff-41e4-b1c9-ba7c0a207b2a)
